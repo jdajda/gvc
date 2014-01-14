@@ -1,0 +1,11 @@
+.idea/*
+.idea
+.idea_modules/*
+.idea_modules
+*.class
+target/*
+target
+project/project/*
+project/project
+project/target/*
+project/target
